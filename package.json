@@ -9,7 +9,7 @@
     "lint": "tslint -c tslint.json 'src/**/*.{ts,tsx}'",
     "pretest": "yarn lint",
     "test": "jest",
-    "prepublish": "yarn build",
+    "prepublishOnly": "yarn build",
     "validate": "yarn test && yarn lint",
     "precommit": "yarn validate",
     "prepush": "yarn validate",
