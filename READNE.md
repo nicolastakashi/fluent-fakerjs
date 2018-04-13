@@ -2,7 +2,17 @@
 
 Fluent FakerJS is a module built on top of [FakerJS] to help you write fake date using a fluent api.
 
-## Example
+## Instaling
+
+```
+yarn add fluentfaker --dev
+
+// or
+
+npm install fluentfaker --save-dev
+```
+
+## Usage
 
 Build JSON Object.
 
