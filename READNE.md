@@ -7,7 +7,7 @@ Fluent FakerJS is a module built on top of [FakerJS] to help you write fake date
 Build JSON Object.
 
 ```
-import FluentFaker from 'fluentfakerjs'
+import FluentFaker from 'fluentfaker'
 
 const object = FluentFaker.make()
       .rule('name', rule => rule.name.findName())
@@ -19,7 +19,7 @@ const object = FluentFaker.make()
 Build Form Data
 
 ```
-import FluentFaker from 'fluentfakerjs'
+import FluentFaker from 'fluentfaker'
 
 const object = FluentFaker.make()
       .rule('name', rule => rule.name.findName())
