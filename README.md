@@ -40,7 +40,7 @@ const object = FluentFaker.make()
 
 ## Rules available
 
-Visit [FakerJS] page to get more details all methods that can be used in Fluent Faker rules.
+Visit [FakerJS] page to get more details about all methods that can be used in Fluent Faker rules.
 
 [fakerjs]: https://github.com/Marak/faker.js
 
